@@ -1,0 +1,7 @@
+uri,start_date,start,end,Act Avg,Act Min,Act Max,Cadence Min,Cadence Max,Cadence Avg,HR Avg,HR Min,HR Max,BR Avg,BR Min,BR Max,Energy Avg,Energyecg Avg,Energy Min,Energy Max,Energy Total,Tidalvolume Avg,Tidalvolume Min,Tidalvolume Max,MV Avg,MV Min,MV Max,Tidalvolume Adjusted Avg,Tidalvolume Adjusted Min,Tidalvolume Adjusted Max,MV Adjusted Avg,MV Adjusted Min,MV Adjusted Max,Steps,Speed (moving) Avg,Speed Max,Speed Avg,Altitude Gain,Altitude Loss,Distance,HRV (HF),HRVHF Norm Min,HRVHF Norm Max,HRVLF Norm Avg,HRVLF Avg,HRVHF Avg,RMSSD,Total Sleep Time,Sleep Efficiency,VO2 max,Heart Rate Recovery,Sleep Percent,Time To Fall Asleep,Sleep REM Time,Sleep Non REM Time,Sleep Wake Time
+na,na,na,na,g,g,g,spm,spm,spm,bpm,bpm,bpm,rpm,rpm,rpm,watt,watt,watt,watt,J,L,L,L,L/min,L/min,L/min,L,L,L,L/min,L/min,L/min,rep,m/s,m/s,m/s,m,m,m,%,%,%,%,ms^2,ms^2,ms,s,%,ml/kg*min,bpm,%,s,s,s,s
+/api/record/256696/,2022-11-04 23:29:49,426906774784,426907334112,0.26160552536231885,0.015625,1.2265625,30.0,130.0,101.83100381194409,114.125,52,142,30.03434065934066,1.0,45.0,295.89569368932,418.56421502884496,58.671632249999995,489.10999999999984,646236.1950174749,1.0150663728191,0.15935999999999997,16.97184,30.937887970615243,5.338559999999999,,0.7808202867839231,0.12258461538461536,13.055261538461538,23.798375362011726,4.106584615384615,,2789,,,,0,0,0,,,,,,,0,,,,,,0,0,0,0
+"
+-----List of annotations"
+uri,start_date,start,datatype,comment
+/api/annotation/112046/,2022-11-04 23:30:01.078125,426906777876,215,b''
