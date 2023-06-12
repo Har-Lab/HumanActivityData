@@ -1,41 +1,41 @@
-,ID,sex,age,weight,height,wingpspan,leg_length,torso_length,femur_length,waist_circumference,shoulder_circumference,current_injuries,past_injuries,dominant_hand,dominant_leg,shoe_size,shoe_type,foot_arch_type,notes,bmi,acl_injury
-0,001,1,25,81.6,183.5,199.0,107.0,46.0,56.0,82.0,121.0,,"right knee torn acl, meniscus",Right,Right,12.0,Athletic Shoe,Medium,,24.2336,1
-1,002,0,19,80.6034,172.72,169.545,102.235,40.64,55.88,104.14,107.95,,shin splints,Left,Right,8.0,Sneaker,Flat,,27.0189,0
-2,003,0,20,47.9,155.0,162.0,88.0,38.0,49.0,73.5,95.0,,,Right,Right,4.5,Athletic Shoe,Medium,,19.9376,0
-3,004,0,34,51.5,168.5,177.0,99.5,40.0,50.0,80.0,96.0,,broken ankle,Right,Right,6.5,Athletic Shoe,Medium,,18.1388,0
-4,005,1,18,59.7,177.25,188.0,98.0,43.0,50.0,79.0,104.0,,Fractured toe,Right,Right,10.0,Sneaker,Arched,missing waist,19.0021,0
-5,006,0,38,61.1,162.3,160.0,89.0,48.0,40.0,91.0,99.0,,,Right,Right,5.0,Athletic Shoe,Medium,missing waist,23.1955,0
-6,007,0,28,68.7,171.0,176.5,96.0,47.0,51.0,90.5,100.0,asthma,"concussion - 5-6 years ago, ankle sprain 3-years ago",Right,Right,7.5,Athletic Shoe,Medium,,23.4944,0
-7,008,1,18,61.2,170.0,173.0,95.0,43.0,48.0,98.0,102.0,,,Left,Right,10.5,Athletic Shoe,Flat,,21.1765,0
-8,010,0,31,53.4,167.0,165.0,92.0,41.0,51.0,75.0,97.0,,sciatica,Right,Right,7.0,Sandle,Medium,,19.1473,0
-9,011,1,19,77.3,172.0,,100.0,44.0,51.0,93.0,113.0,pulled bicep,"wrist fractures, toe fractures, back fractures",Right,Right,9.5,Athletic Shoe,Flat,,26.129,0
-10,012,1,18,65.9,165.0,171.0,92.0,43.0,48.0,85.0,106.0,,,Left,Right,9.5,Athletic Shoe,Medium,,24.2057,0
-11,013,1,22,69.7,185.0,191.0,105.0,45.0,53.0,87.0,108.0,,,Right,Right,10.5,Sandle,Medium,,20.3652,0
-12,014,0,18,63.2,171.0,178.0,102.0,44.0,55.0,88.0,101.0,,,Right,Left,8.5,Athletic Shoe,Flat,missing waist sensor,21.6135,0
-13,015,0,27,54.7,157.0,150.0,88.9,35.56,48.26,78.74,88.0,,,Right,Right,5.0,Sneaker,Medium,,22.1916,0
-14,016,0,31,55.9,160.0,162.0,93.0,39.0,53.0,78.0,91.0,,broken wrist - left,Right,Right,5.5,Sneaker,,,21.8359,0
-15,017,0,25,47.5,167.0,165.0,95.0,39.0,50.0,75.0,92.0,,,Right,Right,6.0,Sneaker,Medium,,17.0318,0
-16,018,0,19,60.1,164.5,172.0,94.0,41.0,50.0,73.0,102.0,scraped knee,broken left hand,Right,Right,7.5,Athletic Shoe,Medium,,22.2097,0
-17,019,0,30,77.4,167.5,170.0,101.0,44.0,56.0,98.0,105.0,,sprained left ankle,Right,Right,7.0,Athletic Shoe,,,27.5874,0
-18,020,0,21,47.5,153.0,151.0,84.0,37.0,45.0,80.0,100.0,,"broken right arm, broken right ankle, compression fractures in spine",Right,Right,4.0,Boot,Medium,,20.2913,0
-19,021,0,18,57.9,165.0,162.0,91.0,42.0,45.0,86.0,105.0,,,Right,Right,5.5,Boot,,,21.2672,0
-20,022,0,21,96.4,177.0,171.0,99.0,53.0,55.0,112.0,124.0,,sprained left ankle,Right,Right,8.5,Athletic Shoe,,,30.7702,0
-21,023,1,20,71.9,185.5,187.0,101.0,46.0,56.0,79.0,111.0,,fracture in right shin,Right,Right,10.5,Sneaker,,missing waist sensor,20.8949,0
-22,024,1,20,68.6,178.0,173.0,97.0,48.0,44.0,80.0,107.0,,,Left,Left,8.5,Sneaker,Arched,,21.6513,0
-23,025,1,22,68.6,180.0,191.0,109.0,40.0,53.0,78.0,111.0,,tendinitis in both knees,Right,Right,10.0,Sneaker,Arched,,21.1728,0
-24,026,1,22,73.8,184.0,191.0,107.0,51.0,55.0,98.0,118.0,"wrist injuries, right ankle sprain","3 concussions, right ankle sprains, herniated disc",Right,Right,10.5,Sneaker,Medium,,21.7982,0
-25,027,0,18,57.9,162.0,162.0,90.0,39.0,48.0,83.0,104.0,,concussion,Right,Left,5.5,Sneaker,Medium,missing wrist sensor,22.0622,0
-26,028,1,50,75.5,184.0,191.0,106.0,44.0,54.0,80.0,105.0,,,Left,Right,11.0,Athletic Shoe,Medium,light rain,22.3003,0
-27,029,0,22,42.7,158.0,155.0,88.0,35.0,48.0,72.0,87.0,,,Right,Right,6.0,Athletic Shoe,Medium,,17.1046,0
-28,030,0,21,56.6,172.0,177.0,104.0,39.0,58.0,78.0,106.0,,,Right,Right,7.0,Athletic Shoe,Medium,,19.132,0
-29,031,1,18,65.4,179.0,182.0,100.0,38.0,53.0,87.0,105.0,,,Right,Right,10.5,Athletic Shoe,Arched,,20.4113,0
-30,032,0,20,52.8,159.0,153.0,99.0,40.0,57.0,70.0,97.0,,,Right,Right,4.5,Sneaker,Medium,,20.8852,0
-31,033,0,33,48.8,154.0,153.0,87.0,42.0,47.0,76.0,86.0,,"left hip labrum tear, left elbow ligament tear",Right,Right,4.5,Athletic Shoe,Medium,,20.5768,0
-32,034,1,21,72.6,185.0,199.0,111.0,38.0,55.0,83.0,108.0,,right calf laceration,Right,Right,10.5,Sneaker,,,21.2126,0
-33,035,0,37,54.5,158.0,160.0,88.0,43.0,46.0,89.0,97.0,right foot arthritis,"right ankle issues, left knee ACL surgery",Right,Right,7.0,Athletic Shoe,Flat,,21.8314,1
-34,036,0,22,67.6,170.0,175.0,98.0,40.0,55.0,81.0,108.0,,,Left,Left,9.0,Athletic Shoe,Medium,,23.391,0
-35,037,1,44,94.0,183.0,189.0,107.0,49.0,54.0,90.0,127.0,,"right knee ACL surgery, broken right foot, broken right wrist, broken left rib",Right,Right,10.5,Boot,Medium,,28.0689,1
-36,038,0,55,84.1,171.0,170.0,93.0,52.0,48.0,101.0,112.0,,both knees ACL and meniscus,Right,Left,7.5,Sneaker,Medium,,28.761,1
-37,039,1,29,83.5,189.5,192.0,106.0,50.0,55.0,84.0,115.0,,left leg broken bone,Right,Right,10.5,Sneaker,Flat,,23.2524,0
-38,040,0,31,59.9,159.0,167.0,83.0,55.0,40.0,126.0,126.0,,"left ACL repair, both broken ankles",Left,Left,6.5,Athletic Shoe,Medium,,23.6937,1
-39,041,1,38,73.0,173.0,181.0,102.0,40.0,54.0,84.0,115.0,,,Right,Right,9.5,Sneaker,,,24.3911,0
+ID,sex,age,weight,height,leg_length,torso_length,femur_length,waist_circumference,shoulder_circumference,current_injuries,past_injuries,dominant_hand,dominant_leg,shoe_size,shoe_type,foot_arch_type,notes,bmi,acl_injury,wingspan
+1,1,25,81.6,183.5,107.0,46.0,56.0,82.0,121.0,,"right knee torn acl, meniscus",Right,Right,12.0,Athletic Shoe,Medium,,24.2336,1,199.0
+2,0,19,80.6034,172.72,102.235,40.64,55.88,104.14,107.95,,shin splints,Left,Right,8.0,Sneaker,Flat,,27.0189,0,169.545
+3,0,20,47.9,155.0,88.0,38.0,49.0,73.5,95.0,,,Right,Right,4.5,Athletic Shoe,Medium,,19.9376,0,162.0
+4,0,34,51.5,168.5,99.5,40.0,50.0,80.0,96.0,,broken ankle,Right,Right,6.5,Athletic Shoe,Medium,,18.1388,0,177.0
+5,1,18,59.7,177.25,98.0,43.0,50.0,79.0,104.0,,Fractured toe,Right,Right,10.0,Sneaker,Arched,missing waist,19.0021,0,188.0
+6,0,38,61.1,162.3,89.0,48.0,40.0,91.0,99.0,,,Right,Right,5.0,Athletic Shoe,Medium,missing waist,23.1955,0,160.0
+7,0,28,68.7,171.0,96.0,47.0,51.0,90.5,100.0,asthma,"concussion - 5-6 years ago, ankle sprain 3-years ago",Right,Right,7.5,Athletic Shoe,Medium,,23.4944,0,176.5
+8,1,18,61.2,170.0,95.0,43.0,48.0,98.0,102.0,,,Left,Right,10.5,Athletic Shoe,Flat,,21.1765,0,173.0
+10,0,31,53.4,167.0,92.0,41.0,51.0,75.0,97.0,,sciatica,Right,Right,7.0,Sandle,Medium,,19.1473,0,165.0
+11,1,19,77.3,172.0,100.0,44.0,51.0,93.0,113.0,pulled bicep,"wrist fractures, toe fractures, back fractures",Right,Right,9.5,Athletic Shoe,Flat,,26.129,0,
+12,1,18,65.9,165.0,92.0,43.0,48.0,85.0,106.0,,,Left,Right,9.5,Athletic Shoe,Medium,,24.2057,0,171.0
+13,1,22,69.7,185.0,105.0,45.0,53.0,87.0,108.0,,,Right,Right,10.5,Sandle,Medium,,20.3652,0,191.0
+14,0,18,63.2,171.0,102.0,44.0,55.0,88.0,101.0,,,Right,Left,8.5,Athletic Shoe,Flat,missing waist sensor,21.6135,0,178.0
+15,0,27,54.7,157.0,88.9,35.56,48.26,78.74,88.0,,,Right,Right,5.0,Sneaker,Medium,,22.1916,0,150.0
+16,0,31,55.9,160.0,93.0,39.0,53.0,78.0,91.0,,broken wrist - left,Right,Right,5.5,Sneaker,,,21.8359,0,162.0
+17,0,25,47.5,167.0,95.0,39.0,50.0,75.0,92.0,,,Right,Right,6.0,Sneaker,Medium,,17.0318,0,165.0
+18,0,19,60.1,164.5,94.0,41.0,50.0,73.0,102.0,scraped knee,broken left hand,Right,Right,7.5,Athletic Shoe,Medium,,22.2097,0,172.0
+19,0,30,77.4,167.5,101.0,44.0,56.0,98.0,105.0,,sprained left ankle,Right,Right,7.0,Athletic Shoe,,,27.5874,0,170.0
+20,0,21,47.5,153.0,84.0,37.0,45.0,80.0,100.0,,"broken right arm, broken right ankle, compression fractures in spine",Right,Right,4.0,Boot,Medium,,20.2913,0,151.0
+21,0,18,57.9,165.0,91.0,42.0,45.0,86.0,105.0,,,Right,Right,5.5,Boot,,,21.2672,0,162.0
+22,0,21,96.4,177.0,99.0,53.0,55.0,112.0,124.0,,sprained left ankle,Right,Right,8.5,Athletic Shoe,,,30.7702,0,171.0
+23,1,20,71.9,185.5,101.0,46.0,56.0,79.0,111.0,,fracture in right shin,Right,Right,10.5,Sneaker,,missing waist sensor,20.8949,0,187.0
+24,1,20,68.6,178.0,97.0,48.0,44.0,80.0,107.0,,,Left,Left,8.5,Sneaker,Arched,,21.6513,0,173.0
+25,1,22,68.6,180.0,109.0,40.0,53.0,78.0,111.0,,tendinitis in both knees,Right,Right,10.0,Sneaker,Arched,,21.1728,0,191.0
+26,1,22,73.8,184.0,107.0,51.0,55.0,98.0,118.0,"wrist injuries, right ankle sprain","3 concussions, right ankle sprains, herniated disc",Right,Right,10.5,Sneaker,Medium,,21.7982,0,191.0
+27,0,18,57.9,162.0,90.0,39.0,48.0,83.0,104.0,,concussion,Right,Left,5.5,Sneaker,Medium,missing wrist sensor,22.0622,0,162.0
+28,1,50,75.5,184.0,106.0,44.0,54.0,80.0,105.0,,,Left,Right,11.0,Athletic Shoe,Medium,light rain,22.3003,0,191.0
+29,0,22,42.7,158.0,88.0,35.0,48.0,72.0,87.0,,,Right,Right,6.0,Athletic Shoe,Medium,,17.1046,0,155.0
+30,0,21,56.6,172.0,104.0,39.0,58.0,78.0,106.0,,,Right,Right,7.0,Athletic Shoe,Medium,,19.132,0,177.0
+31,1,18,65.4,179.0,100.0,38.0,53.0,87.0,105.0,,,Right,Right,10.5,Athletic Shoe,Arched,,20.4113,0,182.0
+32,0,20,52.8,159.0,99.0,40.0,57.0,70.0,97.0,,,Right,Right,4.5,Sneaker,Medium,,20.8852,0,153.0
+33,0,33,48.8,154.0,87.0,42.0,47.0,76.0,86.0,,"left hip labrum tear, left elbow ligament tear",Right,Right,4.5,Athletic Shoe,Medium,,20.5768,0,153.0
+34,1,21,72.6,185.0,111.0,38.0,55.0,83.0,108.0,,right calf laceration,Right,Right,10.5,Sneaker,,,21.2126,0,199.0
+35,0,37,54.5,158.0,88.0,43.0,46.0,89.0,97.0,right foot arthritis,"right ankle issues, left knee ACL surgery",Right,Right,7.0,Athletic Shoe,Flat,,21.8314,1,160.0
+36,0,22,67.6,170.0,98.0,40.0,55.0,81.0,108.0,,,Left,Left,9.0,Athletic Shoe,Medium,,23.391,0,175.0
+37,1,44,94.0,183.0,107.0,49.0,54.0,90.0,127.0,,"right knee ACL surgery, broken right foot, broken right wrist, broken left rib",Right,Right,10.5,Boot,Medium,,28.0689,1,189.0
+38,0,55,84.1,171.0,93.0,52.0,48.0,101.0,112.0,,both knees ACL and meniscus,Right,Left,7.5,Sneaker,Medium,,28.761,1,170.0
+39,1,29,83.5,189.5,106.0,50.0,55.0,84.0,115.0,,left leg broken bone,Right,Right,10.5,Sneaker,Flat,,23.2524,0,192.0
+40,0,31,59.9,159.0,83.0,55.0,40.0,126.0,126.0,,"left ACL repair, both broken ankles",Left,Left,6.5,Athletic Shoe,Medium,,23.6937,1,167.0
+41,1,38,73.0,173.0,102.0,40.0,54.0,84.0,115.0,,,Right,Right,9.5,Sneaker,,,24.3911,0,181.0
