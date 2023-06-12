@@ -3,7 +3,7 @@
 
 <div align="center">
 <p>
-<img alt="GitHub" src="https://camo.githubusercontent.com/dcc7e5d6227e2192f05b155af5fe99380e642de2fbec4669c1fd6e06e8297e02/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f546865446174756d4f72672f6b73686170652d707974686f6e">
+<img alt="GitHub" src="https://img.shields.io/github/license/Har-Lab/HumanActivityData/">
 </p>
 </div>
 
