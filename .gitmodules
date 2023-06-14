@@ -1,0 +1,6 @@
+[submodule "implementations/src/tsclustering"]
+	path = implementations/src/tsclustering
+	url = https://github.com/gellison321/tsclustering.git
+[submodule "implementations/src/tsshapelet"]
+	path = implementations/src/tsshapelet
+	url = https://github.com/gellison321/tsshapelet.git
