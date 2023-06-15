@@ -1,4 +1,4 @@
-from tsshapelet.functions import metrics, barycenters, manipulations, np
+from src.tsshapelet.functions import metrics, barycenters, manipulations, np
 
 class Shapelet:
 

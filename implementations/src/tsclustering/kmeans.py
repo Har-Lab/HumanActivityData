@@ -1,4 +1,4 @@
-from tsclustering.functions import metrics, np, barycenters
+from src.tsclustering.functions import metrics, np, barycenters
 
 class KMeans():
     
