@@ -1,20 +1,20 @@
-sex: 1 if male, 2 if female
+sex: 1 if male, 0 if female
 age: at the time of data collection
 weight: kilograms
 height: centimeters centimeters
-winsgpan:
-leg_length: dominant leg hip bone to ground - centimeters
+wingspan:
+leg_length: dominant leg hip bone to the ground - centimeters
 torso_length: collar bone to hip bone - centimeters
 femur_length: dominant leg hip bone to center of knee cap - centimeters
 waist_circumference: around the hip bone - centimeters
 shoulder_circumference: around the lateral deltoid - centimeters
-current_injuries: self-reported injuries afflicting subject at time of data collection
-past_injuries: self-reoprted injuries no longer afflicting subject at time of data collection
+current_injuries: self-reported injuries afflicting the subject at the time of data collection
+past_injuries: self-reported injuries no longer afflicting the subject at the time of data collection
 dominant_hand: self-reported
-dominant_leg: tested by leaning forward - the first leg to catch the cubject was reported as the dominant leg
+dominant_leg: tested by leaning forward - the first leg to catch the subject was reported as the dominant leg
 shoe_size: US men's size (women's sizes have been normalized to men's sizes)
 shoe_type: classified by researchers
 foot_arch_type: classified by researchers
 bmi: weight(kg)/height(meters)^2
-acl_injury: self-reported prior acl reconstructive surgery
+acl_injury: self-reported prior ACL reconstructive surgery
 notes: anything notable about data collection for the subject
